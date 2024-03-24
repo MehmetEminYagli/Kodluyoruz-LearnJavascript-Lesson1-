@@ -1,0 +1,27 @@
+body
+{
+    background: rgb(22, 22, 24);
+}
+#text
+{
+  text-align: center;
+  color: #e98208;
+  font-size: 40px;
+}
+#hello ,#clock ,#welcome
+{
+    position: relative;
+    text-align: center;
+    color: #e98208;
+    font-size: 32px;
+    letter-spacing: 7px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+#clock ,#welcome
+{  
+    font-size: 40px; 
+}
+#welcome{
+    font-size: 52px;
+}
